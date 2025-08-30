@@ -10,7 +10,7 @@ A página foi dedicada à **história e legado de Rita Lee**, ícone da música 
 
 ---
 ## Preview do Projeto
-![Preview da Página](assets/images/preview-rita.png)
+![Preview da Página](assets/images/preview-rita.PNG)
 
 ## Deploy Online  
 👉 [Acesse aqui](https://trilha-html-desafio-02-wiki-rita-le.vercel.app/)  
