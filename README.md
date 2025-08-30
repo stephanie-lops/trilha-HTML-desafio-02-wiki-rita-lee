@@ -33,7 +33,7 @@ A página foi dedicada à **história e legado de Rita Lee**, ícone da música 
 ## 🔧 Como Executar Localmente  
 1. Clone este repositório:  
    ```bash
-   git clone https://github.com/stephanie-lops/trilha-HTML-desafio-02-wiki-rita-lee
+   git clone https://github.com/stephanie-lops/trilha-HTML-desafio-02-wiki-rita-lee.git
 
 2. Acesse a pasta do projeto:
    ```bash
